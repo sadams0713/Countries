@@ -1,0 +1,15 @@
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.csproj.AssemblyReference.cache
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.AssemblyInfo.cs
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\bin\Debug\net6.0\CountriesDesignPattern.exe
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\bin\Debug\net6.0\CountriesDesignPattern.deps.json
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\bin\Debug\net6.0\CountriesDesignPattern.runtimeconfig.json
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\bin\Debug\net6.0\CountriesDesignPattern.dll
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\bin\Debug\net6.0\CountriesDesignPattern.pdb
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.dll
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\refint\CountriesDesignPattern.dll
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.pdb
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\CountriesDesignPattern.genruntimeconfig.cache
+C:\Users\sadams\source\repos\CountriesDesignPattern\CountriesDesignPattern\obj\Debug\net6.0\ref\CountriesDesignPattern.dll
